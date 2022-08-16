@@ -1,0 +1,16 @@
+shape: (5, 4)
+┌───────┬──────────────────┬────────────────┬────────────────────┐
+│ state ┆ youngest         ┆ oldest         ┆ alphabetical_first │
+│ ---   ┆ ---              ┆ ---            ┆ ---                │
+│ cat   ┆ str              ┆ str            ┆ str                │
+╞═══════╪══════════════════╪════════════════╪════════════════════╡
+│ NH    ┆ John Sherburne   ┆ Frank Guinta   ┆ Aaron Cragin       │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ MO    ┆ Spencer Pettis   ┆ Russ Carnahan  ┆ Abram Comingo      │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ OL    ┆ Daniel Clark     ┆ Julien Poydras ┆ Daniel Clark       │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ WY    ┆ Stephen Nuckolls ┆ Barbara Cubin  ┆ Alan Simpson       │
+├╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┼╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┤
+│ UT    ┆ John Bernhisel   ┆ Mia Love       ┆ Allan Howe         │
+└───────┴──────────────────┴────────────────┴────────────────────┘
